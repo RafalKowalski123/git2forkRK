@@ -1,3 +1,5 @@
 __To jets zdalne repozytorium__
 
-_WM_
+_WM_  
+
+lokalna poprawka  
