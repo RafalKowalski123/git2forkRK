@@ -9,6 +9,11 @@ __To jets zdalne repozytorium__
 3. gfdgdfggertet4rrf
 4. dfsdfsdsfgdfsdfs
 ---
+1. raz
+2. dwa
+3. trzy
+4. cztery 
+5. pięć
 # dhjngufidghujfiniudghfiuhgfdhdgfrhgdfrgdfrdrf
 
 _WM_  
