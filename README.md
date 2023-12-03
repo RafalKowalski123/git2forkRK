@@ -15,6 +15,7 @@ __To jets zdalne repozytorium__
 4. cztery 
 5. pięć
 # dhjngufidghujfiniudghfiuhgfdhdgfrhgdfrgdfrdrf
+# kolejna zmsdfgfdgfdgfdgfdfgdfgdfg
 
 _WM_  
 
